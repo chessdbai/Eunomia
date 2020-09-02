@@ -94,7 +94,7 @@ export class CicdStack extends cdk.Stack {
     });
 
     new codestarnotifications.CfnNotificationRule(this, 'Notifications', {
-      name: 'HerculesNotifications',
+      name: 'EunomiaNotifications',
       status: 'ENABLED',
       resource: pipeline.pipelineArn,
       targets: [
