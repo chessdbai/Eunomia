@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7a5606e0_002Ddb9b_002D4134_002Db1ab_002Dacfcfa3adbb7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Conversion from document succeeds #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DF331B10-FB72-4FA5-BB5F-97D1857291C2::.NETCoreApp,Version=v3.1::Eunomia.Storage.Games.Tests.DynamoGameConvertersTests.ConversionFromDocumentSucceeds&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f969938d_002D21cb_002D4a6a_002Dbb70_002D0756835bd59e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Conversion from document succeeds" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DF331B10-FB72-4FA5-BB5F-97D1857291C2::.NETCoreApp,Version=v3.1::Eunomia.Storage.Games.Tests.DynamoGameConvertersTests.ConversionToAndFromDocumentSucceeds&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=08eec6ce_002D9753_002D42bc_002D97c5_002Df2b476b3b661_0023Eunomia_002ETests/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=df331b10_002Dfb72_002D4fa5_002Dbb5f_002D97d1857291c2_0023Eunomia_002EStorage_002EGames_002ETests/@EntryIndexedValue">True</s:Boolean>
+	
+	
+	
+	
+	</wpf:ResourceDictionary>

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BulkImporter", "BulkImporter", "{396192AF-9EAE-4FF2-807A-CE5FB6142871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eunomia", "packages\projects\Eunomia\Eunomia\Eunomia.csproj", "{334F14D9-187B-4A64-A51B-C3F34F9DBBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eunomia.Tests", "packages\projects\Eunomia\Eunomia.Tests\Eunomia.Tests.csproj", "{08EEC6CE-9753-42BC-97C5-F2B476B3B661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eunomia.BulkImporter", "packages\projects\Eunomia.BulkImporter\Eunomia.BulkImporter\Eunomia.BulkImporter.csproj", "{F335C453-8FE9-4171-97FB-BE511E0C7A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eunomia.BulkImporter.Tests", "packages\projects\Eunomia.BulkImporter\Eunomia.BulkImporter.Tests\Eunomia.BulkImporter.Tests.csproj", "{3FFB496C-91E2-4D48-B39D-CCD9C22318CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Storage", "Storage", "{56CB9D9D-E926-4EC0-BE27-83E9027B4007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eunomia.Storage.Games", "packages\projects\Eunomia.Storage\Eunomia.Storage.Games\Eunomia.Storage.Games.csproj", "{07CA928B-CED2-4876-B558-7ABA75114EC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eunomia.Storage.Games.Tests", "packages\projects\Eunomia.Storage\Eunomia.Storage.Games.Tests\Eunomia.Storage.Games.Tests.csproj", "{DF331B10-FB72-4FA5-BB5F-97D1857291C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Openings", "Openings", "{AFE98159-931E-4280-A6FB-CFC6985020A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334F14D9-187B-4A64-A51B-C3F34F9DBBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334F14D9-187B-4A64-A51B-C3F34F9DBBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334F14D9-187B-4A64-A51B-C3F34F9DBBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334F14D9-187B-4A64-A51B-C3F34F9DBBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08EEC6CE-9753-42BC-97C5-F2B476B3B661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EEC6CE-9753-42BC-97C5-F2B476B3B661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EEC6CE-9753-42BC-97C5-F2B476B3B661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EEC6CE-9753-42BC-97C5-F2B476B3B661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F335C453-8FE9-4171-97FB-BE511E0C7A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F335C453-8FE9-4171-97FB-BE511E0C7A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F335C453-8FE9-4171-97FB-BE511E0C7A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F335C453-8FE9-4171-97FB-BE511E0C7A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFB496C-91E2-4D48-B39D-CCD9C22318CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFB496C-91E2-4D48-B39D-CCD9C22318CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFB496C-91E2-4D48-B39D-CCD9C22318CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFB496C-91E2-4D48-B39D-CCD9C22318CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CA928B-CED2-4876-B558-7ABA75114EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CA928B-CED2-4876-B558-7ABA75114EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CA928B-CED2-4876-B558-7ABA75114EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CA928B-CED2-4876-B558-7ABA75114EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF331B10-FB72-4FA5-BB5F-97D1857291C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF331B10-FB72-4FA5-BB5F-97D1857291C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF331B10-FB72-4FA5-BB5F-97D1857291C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF331B10-FB72-4FA5-BB5F-97D1857291C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F335C453-8FE9-4171-97FB-BE511E0C7A6C} = {396192AF-9EAE-4FF2-807A-CE5FB6142871}
+		{3FFB496C-91E2-4D48-B39D-CCD9C22318CD} = {396192AF-9EAE-4FF2-807A-CE5FB6142871}
+		{07CA928B-CED2-4876-B558-7ABA75114EC0} = {56CB9D9D-E926-4EC0-BE27-83E9027B4007}
+		{DF331B10-FB72-4FA5-BB5F-97D1857291C2} = {56CB9D9D-E926-4EC0-BE27-83E9027B4007}
+	EndGlobalSection
+EndGlobal

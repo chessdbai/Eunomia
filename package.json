@@ -1,0 +1,12 @@
+{
+  "name": "@chessdb.biz/eunomia",
+  "version": "0.0.1-alpha",
+  "description": "Monorepo package with the storage backends for the chessdb.",
+  "main": "index.js",
+  "author": "John Davis",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

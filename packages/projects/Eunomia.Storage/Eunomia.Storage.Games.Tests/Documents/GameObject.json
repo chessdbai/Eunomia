@@ -1,0 +1,24 @@
+{
+  "Id":{
+    "CanonicalizedId":"canon123",
+    "UniqueId":"unique123",
+    "PublicId":"pub123"
+  },
+  "Dataset":{
+    "Author":"johndavis_59",
+    "Name":"Favorite Games"
+  },
+  "ImportTimestamp":"2020-08-22T13:43:36.816412-05:00",
+  "White":"johndavis_59",
+  "Black":"unnamed",
+  "Event":"tournament",
+  "Site":"Dallas",
+  "Date":"2020-08-22T13:44:36.817035-05:00",
+  "Round":"1",
+  "Result":"1-0",
+  "OtherTags":{
+    "tag1":"value1",
+    "tag2":"value2"
+  },
+  "GamePgn":"pgn"
+}
