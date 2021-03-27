@@ -1,18 +1,62 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7a5606e0_002Ddb9b_002D4134_002Db1ab_002Dacfcfa3adbb7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Conversion from document succeeds #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::DF331B10-FB72-4FA5-BB5F-97D1857291C2::.NETCoreApp,Version=v3.1::Eunomia.Storage.Games.Tests.DynamoGameConvertersTests.ConversionFromDocumentSucceeds&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3405d089_002Da5d7_002D4fbf_002Db6e5_002D6391b8b8af40/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Converts to and from a redis key and protobuf value." xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/john/eunomia/packages/projects/Eunomia.Storage/Eunomia.Storage.Tests" Presentation="&amp;lt;Eunomia.Storage&amp;gt;\&amp;lt;Eunomia.Storage.Tests&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f969938d_002D21cb_002D4a6a_002Dbb70_002D0756835bd59e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Conversion from document succeeds" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::DF331B10-FB72-4FA5-BB5F-97D1857291C2::.NETCoreApp,Version=v3.1::Eunomia.Storage.Games.Tests.DynamoGameConvertersTests.ConversionToAndFromDocumentSucceeds&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=07518836_002Da62e_002D4c3a_002D9b36_002D05594679414f_0023Eunomia_002EStorage/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=07ca928b_002Dced2_002D4876_002Db558_002D7aba75114ec0_0023Eunomia_002EStorage_002EGames/@EntryIndexedValue">True</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=08eec6ce_002D9753_002D42bc_002D97c5_002Df2b476b3b661_0023Eunomia_002ETests/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=334f14d9_002D187b_002D4a64_002Da51b_002Dc3f34f9dbbdc_0023Eunomia/@EntryIndexedValue">True</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=38a90dd8_002D6ec6_002D4cbe_002Da967_002Ddb3c2ac51236_0023Eunomia_002EStorage_002EPositions_002ETests/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=5658ef3a_002D7111_002D41af_002D9571_002Dd9f3807f11ab_0023Eunomia_002ENest/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=65c108b2_002D3f6e_002D4f1d_002Db103_002Dce23fe95868b_0023Eunomia_002EElasticsearch_002ENet/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=9fa2eb14_002Da97d_002D4c03_002D844a_002D0aa3e9d82671_0023Eunomia_002EStorage_002EPositions/@EntryIndexedValue">True</s:Boolean>
 	
 	
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=df331b10_002Dfb72_002D4fa5_002Dbb5f_002D97d1857291c2_0023Eunomia_002EStorage_002EGames_002ETests/@EntryIndexedValue">True</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=ec976401_002Db00f_002D40cd_002Daaef_002De72d83bb39c1_0023Eunomia_002EElasticsearch_002ENet_002EAws/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=f335c453_002D8fe9_002D4171_002D97fb_002Dbe511e0c7a6c_0023Eunomia_002EBulkImporter/@EntryIndexedValue">True</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	

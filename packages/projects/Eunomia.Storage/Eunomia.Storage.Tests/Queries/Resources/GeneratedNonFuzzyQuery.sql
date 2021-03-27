@@ -1,0 +1,3 @@
+SELECT "s"."black_player_elo", "s"."black_player_name", "s"."board_state", "s"."dataset", "s"."eco", "s"."extended_eco", "s"."fen", "s"."game_move_num", "s"."game_ply_num", "s"."result", "s"."game_id", "s"."next_move_san", "s"."next_move_uci", "s"."prev_move_san", "s"."prev_move_uci", "s"."white_player_elo", "s"."white_player_name"
+FROM "stgpositions" AS "s"
+WHERE ((((("s"."next_move_san" = 'Nf3') OR ("s"."next_move_uci" = 'b1c3')) AND (("s"."prev_move_san" = 'e4') OR ("s"."prev_move_uci" = 'd2d4'))) AND (("s"."eco" = 'B98') OR ("s"."eco" = 'B99'))) AND (("s"."result" = 1) OR ("s"."result" = 0))) AND (("s"."white_player_elo" >= 100) AND ("s"."black_player_elo" >= 100))

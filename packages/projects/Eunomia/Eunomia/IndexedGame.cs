@@ -25,6 +25,16 @@ namespace Eunomia
         public DatasetId Dataset { get; set; }
 
         /// <summary>
+        /// Gets or sets the ECO code.
+        /// </summary>
+        public string ECO { get; set; }
+
+        /// <summary>
+        /// Gets or sets the extended ECO code.
+        /// </summary>
+        public string ExtendedECO { get; set; }
+
+        /// <summary>
         /// Gets or sets the timestamp that this game was imported.
         /// </summary>
         public DateTime ImportTimestamp { get; set; }

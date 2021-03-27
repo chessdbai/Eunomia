@@ -1,0 +1,10 @@
+0 silly argv {
+0 silly argv   _: [ 'bootstrap' ],
+0 silly argv   lernaVersion: '3.22.1',
+0 silly argv   '$0': '/Users/john/eunomia/node_modules/.bin/lerna'
+0 silly argv }
+1 notice cli v3.22.1
+2 verbose rootPath /Users/john/eunomia
+3 error JSONError: Unexpected end of JSON input while parsing near '' in packages/api-model/package.json
+3 error     at module.exports (/Users/john/eunomia/node_modules/parse-json/index.js:26:19)
+3 error     at parse (/Users/john/eunomia/node_modules/load-json-file/index.js:15:9)

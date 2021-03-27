@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+      <ProjectReference Include="..\Eunomia.Storage\Eunomia.Storage.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Queries\Resources\generated_non_fuzzy_query.sql" />
+      <EmbeddedResource Include="Queries\Resources\GeneratedNonFuzzyQuery.sql" />
+      <None Remove="Queries\Resources\GeneratedFuzzyQuery.sql" />
+      <EmbeddedResource Include="Queries\Resources\GeneratedFuzzyQuery.sql" />
+    </ItemGroup>
+
+</Project>

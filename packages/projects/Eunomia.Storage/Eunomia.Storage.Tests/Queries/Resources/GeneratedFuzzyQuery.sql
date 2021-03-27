@@ -1,0 +1,3 @@
+SELECT "s"."black_player_elo", "s"."black_player_name", "s"."board_state", "s"."dataset", "s"."eco", "s"."extended_eco", "s"."fen", "s"."game_move_num", "s"."game_ply_num", "s"."result", "s"."game_id", "s"."next_move_san", "s"."next_move_uci", "s"."prev_move_san", "s"."prev_move_uci", "s"."white_player_elo", "s"."white_player_name"
+FROM "stgpositions" AS "s"
+WHERE (regexp_like("s"."board_state", '.{8}pppp.{1}ppp.{8}.{8}.{4}Pp.{2}.{8}PPPP.{2}PP.{8}')) OR (regexp_like("s"."board_state", '.{8}pppp.{1}ppp.{8}.{8}.{3}PPp.{2}.{8}PPP.{3}PP.{8}'))

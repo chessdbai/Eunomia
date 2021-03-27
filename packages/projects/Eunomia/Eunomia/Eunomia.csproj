@@ -1,20 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <GenerateDocumentationFile>true</GenerateDocumentationFile>
-        <TargetFrameworks>
-            netcoreapp3.1;netstandard2.1
-        </TargetFrameworks>
-        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <!-- NuGet Properties -->
+        <Title>ChessDB.Eunomia</Title>
+        <Description>The core storage definition package.</Description>
+        <PackageTags>eunomia chessdbai chessdb storage chess</PackageTags>
+        <TargetFramework>net5.0</TargetFramework>
+        <PackageId>ChessDB.Eunomia</PackageId>
+        <Version>2.0.0</Version>
+        <Authors>john@chessdb.biz</Authors>
+        <Company>ChessDB</Company>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <IsPackable>true</IsPackable>
     </PropertyGroup>
-
-    <ItemGroup>
-        <PackageReference Include="StyleCop.Analyzers" Version="1.1.118" PrivateAssets="All" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <None Remove="stylecop.json" />
-      <AdditionalFiles Include="stylecop.json" />
-    </ItemGroup>
 
 </Project>
